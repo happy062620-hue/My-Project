@@ -1,0 +1,6 @@
+{
+  "name": "Local Access Control & Dual HDD Backup System",
+  "description": "Internet-independent local server access control, RFID card issuance & design suite with dual HDD automatic offline backup and disaster recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
